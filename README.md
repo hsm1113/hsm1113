@@ -13,7 +13,6 @@ I hope to develop funny things. :laughing:
 #### Languages
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C♯-239120?style=flat-square&logo=csharp&logoColor=white)
-![W3C](https://img.shields.io/badge/W3C-005A9C?style=flat-square&logo=w3c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 #### Tools
