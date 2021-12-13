@@ -1,5 +1,3 @@
-![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
 ### :clap: Hi there! :rocket: I'm **app developer**. :dizzy:
 I hope to develop beautiful things. :sparkles:   
 I hope to develop funny things. :laughing:
